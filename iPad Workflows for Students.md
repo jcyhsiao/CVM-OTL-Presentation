@@ -11,7 +11,7 @@ theme: Plain Jane, 7
 
 * Everyone has different preference for working style, learning, style, etc..
 * Be curious about new apps, but stick with what works for you
-* You can chain apps together to create powerful workflows
+* You can chain apps together to create powerful workflows ... the share sheet is your friend!
 * **You might have other app/workflows that I would love to know about!**
 
 ---
@@ -19,7 +19,7 @@ theme: Plain Jane, 7
 ## Make sure to get these Freebies for OSU students!
 
 * (Buckeye)Box: unlimited storage
-* Office 365: 1TB storage (that's about 20 Blu-Ray movies!), install on 5 PCs/Macs, 5 tablets, and 5 smartphones
+* Office 365/BuckeyeMail: 1TB storage (that's about 20 Blu-Ray movies!), install on 5 PCs/Macs, 5 tablets, and 5 smartphones
 
 ---
 
@@ -28,15 +28,16 @@ theme: Plain Jane, 7
   * Top Hat polling
   * Keep yourself up-to-date with your courses
   * Take notes in class
-    * ... on PDF lecture notes
-    * ... on Office documents
-    * ... on blank, lined "paper"
+    * ... annotate on PDF lecture notes
+    * ... annotate/edit on Office documents
+    * ... hand-write on blank, lined "paper"
+    * ... typed, electronic notes
 
 ---
 
 ## How might a day of learning look like ... (cont.)
 
-  * Keep track of various research 
+  * Take and organize research information
   * Submit a paper to Carmen
   * Take an exam (more on this in ExamSoft session)
   * Checking your grades, bus routes, etc.
@@ -91,7 +92,38 @@ If you did not complete the Tech Setup quiz in Jump Start, join the Top Hat cour
 
 ---
 
-## Take notes on "paper"
+## Take handwritten notes
+
+**Tools**: GoodNotes (--> Box)
+
+* This is my current go-to because:
+  * It let me keep my notes in "notebooks"
+  * I can use/import templates, including Cornell Notes
+  * I can search my handwriting
+
+
+---
+
+## Take electronic notes
+
+**Tools**: OneNote --> Office 365/BuckeyeMail
+
+* This is a great, free, organized solution
+* I don't use it for handwritten notes because writing with the Apple Pencil feels off
+* You can insert media, files, links, etc:
+  * ... in the app (the camera tool is also a document scanner)
+  * ... using the share sheet
+
+---
+
+## Take electronic notes (cont.)
+
+* OneNote is a great tool for, for example, online research 
+  * If you are doing a tradition paper research, you might look into something like Papership, Mendeley, EndNote, etc.
+
+---
+
+
 
 
 
