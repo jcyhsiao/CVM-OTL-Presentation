@@ -38,26 +38,27 @@ theme: Plain Jane, 7
 ## How might a day of learning look like ... (cont.)
 
   * Take and organize research information
-  * Submit a paper to Carmen
-  * Take an exam (more on this in ExamSoft session)
+  * Submit an assignment to Carmen
+  * Take an quiz or exam
   * Checking your grades, bus routes, etc.
 
 ---
 
 ## Top Hat Polling
 
-**Tools**: Top Hat
+**Tool**: Top Hat
 
-If you did not complete the Tech Setup quiz in Jump Start, join the Top Hat course using this code: 566704
+* If you did not complete the Tech Setup quiz in Jump Start, join the Top Hat course using this code: 566704
+* Please take the pre-survey now in Top Hat!
 
 ---
 
 ## Keep yourself up-to-date with your courses
 
-**Tools**: Canvas
+**Tool**: Canvas *(it's what the system is called)*
 
 * Access courses
-* Make sure that you are receiving notifications!
+* Tweak your notification settings
 * Check upcoming events, due dates, etc.
 * Check notifications and messages
 * Access course materials and activities
@@ -75,7 +76,7 @@ If you did not complete the Tech Setup quiz in Jump Start, join the Top Hat cour
 
 ## Annotate PDF lecture notes (file comes from other apps)
 
-**Tools**: (App) --> Box --> iAnnotate
+**Tools**: *App* --> Box --> iAnnotate
 
 * Use the share sheet to save to Box
 * Then, open the document in iAnnotate to, well, annotation. Changes are saved and uploaded upon closing the document (or, hold the "x" icon)
@@ -84,7 +85,7 @@ If you did not complete the Tech Setup quiz in Jump Start, join the Top Hat cour
 
 ## Annotate/edit Office documents
 
-**Tools**: (App) --> Box --> (Word / Excel / PowerPoint / etc.)
+**Tools**: *App* --> Box --> Office (Word / Excel / PowerPoint / etc.)
 
 * Use the share sheet to save to Box
 * Open document in Box
@@ -122,6 +123,62 @@ If you did not complete the Tech Setup quiz in Jump Start, join the Top Hat cour
   * If you are doing a tradition paper research, you might look into something like Papership, Mendeley, EndNote, etc.
 
 ---
+
+## Submit an file upload assignment to Carmen
+
+**Tools**: (Canvas -->) *App* --> Canvas
+
+* Remember: you can annotate PDF directly in the Canvas app
+* From the app with which you are working on/storing your submission:
+  * Use the share sheet to "Copy to Canvas"
+  * Open the assignment in Canvas
+  * Under Submission > Turn In, find your submission
+  * Lastly, remember to submit!
+
+---
+
+## Take a quiz/exam in Carmen
+
+**Tool**: Canvas
+
+* You can take the majority of quizzes in the Canvas app
+* If a quiz is not compatible with the app, it will prompt you to take it using a browser
+* **Before you start a quiz, make sure that you have reliable internet connection**
+  * You can resume an unsubmitted attempt as long as time isn't up
+  * The app will prompt you if you try to submit without answering all questions
+
+---
+
+## Before we move on from the Canvas app ... "We know what you did/didn't do in Carmen."
+
+*hint hint, nudge nudge*
+
+* Double-check if you actually submitted your an assignment, quiz, or discussion comment!
+  * You can also confirm this on the Grades page
+* Unless you know what you're doing, don't completely turn off emails from Carmen
+  * If you miss a notification as a result, well ... whose fault is that? 
+
+---
+
+## Check your grades, bus routes etc.
+
+**Tool**: Ohio State app
+
+* **Campus** tab: points of interest, services of interest, parking garage availability, etc.
+* **Log In/My OSU** tab: class schedule, manage BuckID, see grades, configure wifi/BuckeyeMail/notifications, etc..
+* **Buses** tab: routes and real-time bus location updates
+
+---
+
+## Post-Survey in Top Hat
+
+---
+
+## Questions?
+
+---
+
+
 
 
 
