@@ -30,7 +30,7 @@ theme: Plain Jane, 7
   * Take notes in class
     * ... on PDF lecture notes
     * ... on Office documents
-    * ... on blank sheets
+    * ... on blank, lined "paper"
 
 ---
 
@@ -83,13 +83,17 @@ If you did not complete the Tech Setup quiz in Jump Start, join the Top Hat cour
 
 ## Annotate/edit Office documents
 
+**Tools**: (App) --> Box --> (Word / Excel / PowerPoint / etc.)
+
 * Use the share sheet to save to Box
 * Open document in Box
 * Then, you can open document in Word; changes are saved back to Box (you'd need to set up your Office apps first)
 
 ---
 
-## 
+## Take notes on "paper"
+
+
 
 
 
