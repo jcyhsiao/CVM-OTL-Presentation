@@ -28,8 +28,8 @@ theme: Plain Jane, 7
   * Top Hat polling
   * Keep yourself up-to-date with your courses
   * Take notes in class
-    * ... annotate on PDF lecture notes
-    * ... annotate/edit on Office documents
+    * ... annotate PDF (lecture notes)
+    * ... annotate/edit Office documents
     * ... hand-write on blank, lined "paper"
     * ... typed, electronic notes
 
@@ -65,7 +65,7 @@ theme: Plain Jane, 7
 
 ---
 
-## Annotate PDF lecture notes (file comes from Canvas app)
+## Annotate PDF files (file comes from Canvas app)
 
 **Tools**: Canvas --> Box
 
@@ -74,7 +74,7 @@ theme: Plain Jane, 7
 
 ---
 
-## Annotate PDF lecture notes (file comes from other apps)
+## Annotate PDF files (file comes from other apps)
 
 **Tools**: *App* --> Box --> iAnnotate
 
@@ -101,6 +101,8 @@ theme: Plain Jane, 7
   * It let me keep my notes in "notebooks"
   * I can use/import templates, including Cornell Notes
   * I can search my handwriting
+
+Bonus: If you would like to keep everything in GoodNotes, you can also import your PDF into a GoodNotes notebook.
 
 
 ---
