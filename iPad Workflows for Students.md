@@ -7,19 +7,19 @@ theme: Plain Jane, 7
 
 ---
 
-## There are no "Magic Apps"
+## People have different "Magic Apps"
 
-* Everyone has different preference for working style, learning, style, etc..
-* Be curious about new apps, but stick with what works for you
-* You can chain apps together to create powerful workflows ... the share sheet is your friend!
+* Everyone has different preference for working style, learning style, etc..
+* Be curious about new apps, but use what works for you
+* You can chain apps together to create powerful workflows
 * **You might have other app/workflows that I would love to know about!**
 
 ---
 
 ## Make sure to get these Freebies for OSU students!
 
-* (Buckeye)Box: unlimited storage
-* Office 365/BuckeyeMail: 1TB storage (that's about 20 Blu-Ray movies!), install on 5 PCs/Macs, 5 tablets, and 5 smartphones
+* [(Buckeye)Box](box.osu.edu): unlimited storage
+* [Office 365/BuckeyeMail](office365.osu.edu): 1TB storage (that's about 20 Blu-Ray movies!), install on 5 PCs/Macs, 5 tablets, and 5 smartphones
 
 ---
 
@@ -48,8 +48,10 @@ theme: Plain Jane, 7
 
 **Tool**: Top Hat
 
-* If you did not complete the Tech Setup quiz in Jump Start, join the Top Hat course using this code: 566704
-* Please take the pre-survey now in Top Hat!
+* Your instructors may use Top Hat to ask you questions during class to make sure that you understand
+* Practice Time!
+  * If you did not complete the Tech Setup quiz in Jump Start, join the Top Hat course using this code: 566704
+  * Please take the pre-survey now in Top Hat!
 
 ---
 
@@ -104,7 +106,6 @@ theme: Plain Jane, 7
 
 Bonus: If you would like to keep everything in GoodNotes, you can also import your PDF into a GoodNotes notebook.
 
-
 ---
 
 ## Take electronic notes
@@ -112,7 +113,7 @@ Bonus: If you would like to keep everything in GoodNotes, you can also import yo
 **Tools**: OneNote --> Office 365/BuckeyeMail
 
 * This is a great, free, organized solution
-* I don't use it for handwritten notes because writing with the Apple Pencil feels off
+* I don't personally use it for handwritten notes because writing with the Apple Pencil feels off
 * You can insert media, files, links, etc:
   * ... in the app (the camera tool is also a document scanner)
   * ... using the share sheet
