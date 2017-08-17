@@ -39,8 +39,26 @@ theme: Plain Jane, 7
 
   * Take and organize research information
   * Submit an assignment to Carmen
-  * Take an quiz or exam
+  * Take an quiz or exam (you will hear about the Examplify app at a later session)
   * Checking your grades, bus routes, etc.
+
+---
+
+## Apps that we will show you today
+
+* iOS (specifically share sheet)
+* Top Hat
+* Canvas
+* Box
+* iAnnotate
+* Word
+* GoodNotes
+* OneNote
+* Ohio State
+
+---
+
+## Don't feel like you have to remember everything! We just want to show you what's possible today!
 
 ---
 
@@ -91,7 +109,20 @@ theme: Plain Jane, 7
 
 * Use the share sheet to save to Box
 * Open document in Box
-* Then, you can open document in Word; changes are saved back to Box (you'd need to set up your Office apps first)
+* Then, you can open document in Word; changes are saved back to Box (we recommend that you set up your Office apps first)
+
+---
+
+## Submit an file upload assignment to Carmen
+
+**Tools**: (Canvas -->) *App* --> Canvas
+
+* Remember: you can annotate PDF directly in the Canvas app
+* From the app with which you are working on/storing your submission:
+  * Use the share sheet to "Copy to Canvas"
+  * Open the assignment in Canvas
+  * Under Submission > Turn In, find your submission
+  * Lastly, remember to submit!
 
 ---
 
@@ -127,19 +158,7 @@ Bonus: If you would like to keep everything in GoodNotes, you can also import yo
 
 ---
 
-## Submit an file upload assignment to Carmen
-
-**Tools**: (Canvas -->) *App* --> Canvas
-
-* Remember: you can annotate PDF directly in the Canvas app
-* From the app with which you are working on/storing your submission:
-  * Use the share sheet to "Copy to Canvas"
-  * Open the assignment in Canvas
-  * Under Submission > Turn In, find your submission
-  * Lastly, remember to submit!
-
----
-
+<!--
 ## Take a quiz/exam in Carmen
 
 **Tool**: Canvas
@@ -151,15 +170,16 @@ Bonus: If you would like to keep everything in GoodNotes, you can also import yo
   * The app will prompt you if you try to submit without answering all questions
 
 ---
+-->
 
-## Before we move on from the Canvas app ... "We know what you did/didn't do in Carmen."
+## Before we move on ... some tips for Carmen assignments and quizzes
 
-*hint hint, nudge nudge*
+*We know what you did or didn't do ... hint hint, nudge nudge*
 
 * Double-check if you actually submitted your an assignment, quiz, or discussion comment!
   * You can also confirm this on the Grades page
-* Unless you know what you're doing, don't completely turn off emails from Carmen
-  * If you miss a notification as a result, well ... whose fault is that? 
+* You can resume an unsubmitted quiz attempt as as long as time isn't up. Carmen will ask you to confirm if you try to submit with unanswered questions.
+* Unless you know what you're doing, don't completely turn off emails from Carmen. You might something important!
 
 ---
 
@@ -173,11 +193,11 @@ Bonus: If you would like to keep everything in GoodNotes, you can also import yo
 
 ---
 
-## Post-Survey in Top Hat
+## Questions?
 
 ---
 
-## Questions?
+## Post-Survey in Top Hat
 
 ---
 
