@@ -3,7 +3,7 @@ footer: CVM Office of Teaching and Learning
 slidenumbers: true
 theme: Plain Jane, 7
 
-# Not Just Apps - iPad Workflows for Students
+# Optimize Learning with iPad using iPad Workflows
 
 ---
 
@@ -39,14 +39,13 @@ theme: Plain Jane, 7
 
   * Take and organize research information
   * Submit an assignment to Carmen
-  * Take an quiz or exam (you will hear about the Examplify app at a later session)
   * Checking your grades, bus routes, etc.
 
 ---
 
-## Apps that we will show you today
+## Apps that we will show you today - <br />feel free to follow along!
 
-* iOS (specifically share sheet)
+iOS (specifically share sheet)
 * Top Hat
 * Canvas
 * Box
@@ -78,7 +77,7 @@ theme: Plain Jane, 7
 **Tool**: Canvas *(it's what the system is called)*
 
 * Access courses
-* Tweak your notification settings
+* Tweak your notification settings ()
 * Check upcoming events, due dates, etc.
 * Check notifications and messages
 * Access course materials and activities
@@ -126,13 +125,24 @@ theme: Plain Jane, 7
 
 ---
 
+## Before we move on ... some tips for Carmen assignments and quizzes
+
+*We know what you did or didn't do ... hint hint, nudge nudge*
+
+* Double-check if you actually submitted your an assignment, quiz, or discussion comment!
+  * You can also confirm this on the Grades page
+* You can resume an unsubmitted quiz attempt as as long as time isn't up. Carmen will ask you to confirm if you try to submit with unanswered questions.
+* Unless you know what you're doing, don't completely turn off emails from Carmen. You might miss something important - and that would be on you ☠️
+
+---
+
 ## Take handwritten notes
 
 **Tools**: GoodNotes (--> Box)
 
 * This is my current go-to because:
   * It let me keep my notes in "notebooks"
-  * I can use/import templates, including Cornell Notes
+  * I can use/import templates, including Cornell Notes (stay tuned for workshop info)
   * I can search my handwriting
 
 Bonus: If you would like to keep everything in GoodNotes, you can also import your PDF into a GoodNotes notebook.
@@ -172,17 +182,6 @@ Bonus: If you would like to keep everything in GoodNotes, you can also import yo
 ---
 -->
 
-## Before we move on ... some tips for Carmen assignments and quizzes
-
-*We know what you did or didn't do ... hint hint, nudge nudge*
-
-* Double-check if you actually submitted your an assignment, quiz, or discussion comment!
-  * You can also confirm this on the Grades page
-* You can resume an unsubmitted quiz attempt as as long as time isn't up. Carmen will ask you to confirm if you try to submit with unanswered questions.
-* Unless you know what you're doing, don't completely turn off emails from Carmen. You might something important!
-
----
-
 ## Check your grades, bus routes etc.
 
 **Tool**: Ohio State app
@@ -200,6 +199,18 @@ Bonus: If you would like to keep everything in GoodNotes, you can also import yo
 ## Post-Survey in Top Hat
 
 ---
+
+## Next Stop ...
+
+Go visit **Wilce Student Health Center's** table at the **Health Fair** to sign up for BuckMD, which is a portal for:
+
+* Scheduling and managing appointments
+* View and print your personal health information
+* Send/receive secure messages to/from Student Health Services
+* ... and more!
+
+---
+
 
 
 
