@@ -10,16 +10,16 @@ theme: Plain Jane, 7
 ## People have different "Magic Apps"
 
 * Everyone has different preference for working style, learning style, etc..
-* Be curious about new apps, but use what works for you
-* You can chain apps together to create powerful workflows
+* Be curious about new apps, but use what works for you.
+* You can chain apps together to create powerful workflows.
 * **You might have other app/workflows that I would love to know about!**
 
 ---
 
 ## Make sure to get these Freebies for OSU students!
 
-* [(Buckeye)Box](box.osu.edu): unlimited storage
-* [Office 365/BuckeyeMail](office365.osu.edu): 1TB storage (that's about 20 Blu-Ray movies!), install on 5 PCs/Macs, 5 tablets, and 5 smartphones
+* [(Buckeye)Box](box.osu.edu): unlimited storage.
+* [Office 365/BuckeyeMail](office365.osu.edu): 1TB storage (that's about 20 Blu-Ray movies!), install on 5 PCs/Macs, 5 tablets, and 5 smartphones.
 
 ---
 
@@ -67,7 +67,7 @@ iOS (specifically share sheet)
 
 * Your instructors may use Top Hat to ask you questions during class to make sure that you understand
 * Practice Time!
-  * If you did not complete the Tech Setup quiz in Jump Start, join the Top Hat course using this code: 566704
+  * If you did not complete the Tech Setup quiz in Jump Start, join the Top Hat course using this code: 566704.
   * Please take the pre-survey now in Top Hat!
 
 ---
@@ -76,11 +76,21 @@ iOS (specifically share sheet)
 
 **Tool**: Canvas *(it's what the system is called)*
 
-* Access courses
-* Tweak your notification settings ()
-* Check upcoming events, due dates, etc.
-* Check notifications and messages
-* Access course materials and activities
+* Access courses.
+* Check upcoming events, due dates, etc..
+* Check notifications and messages.
+* Access course materials and activities.
+
+---
+
+## Keep yourself up-to-date with your courses
+
+**Tool**: Canvas *(it's what the system is called)*
+
+* Tweak your notification settings.
+  * By default, emails are sent to your @osu, which then may be forwarded on to BuckeyeMail or other email service that you have chosen).
+  * At the very least, I would turn on Announcement and Conversation Message.
+  * Use web version for finer control.
 
 ---
 
@@ -88,8 +98,8 @@ iOS (specifically share sheet)
 
 **Tools**: Canvas --> Box
 
-* You can annotate PDFs directly in the Canvas app
-* Then, use the share sheet to save to Box (you'd need to set up your Box app first)
+* You can annotate PDFs directly in the Canvas app.
+* Then, use the share sheet to save to Box (you'd need to set up your Box app first).
 
 ---
 
@@ -97,8 +107,8 @@ iOS (specifically share sheet)
 
 **Tools**: *App* --> Box --> iAnnotate
 
-* Use the share sheet to save to Box
-* Then, open the document in iAnnotate to, well, annotation. Changes are saved and uploaded upon closing the document (or, hold the "x" icon)
+* Use the share sheet to save to Box.
+* Then, open the document in iAnnotate to, well, annotation. Changes are saved and uploaded upon closing the document (or, hold the "x" icon).
 
 ---
 
@@ -106,9 +116,9 @@ iOS (specifically share sheet)
 
 **Tools**: *App* --> Box --> Office (Word / Excel / PowerPoint / etc.)
 
-* Use the share sheet to save to Box
-* Open document in Box
-* Then, you can open document in Word; changes are saved back to Box (we recommend that you set up your Office apps first)
+* Use the share sheet to save to Box.
+* Open document in Box.
+* Then, you can open document in Word; changes are saved back to Box (we recommend that you set up your Office apps first).
 
 ---
 
@@ -116,11 +126,11 @@ iOS (specifically share sheet)
 
 **Tools**: (Canvas -->) *App* --> Canvas
 
-* Remember: you can annotate PDF directly in the Canvas app
+* Remember: you can annotate PDF directly in the Canvas app.
 * From the app with which you are working on/storing your submission:
-  * Use the share sheet to "Copy to Canvas"
-  * Open the assignment in Canvas
-  * Under Submission > Turn In, find your submission
+  * Use the share sheet to "Copy to Canvas."
+  * Open the assignment in Canvas.
+  * Under Submission > Turn In, find your submission.
   * Lastly, remember to submit!
 
 ---
@@ -130,9 +140,9 @@ iOS (specifically share sheet)
 *We know what you did or didn't do ... hint hint, nudge nudge*
 
 * Double-check if you actually submitted your an assignment, quiz, or discussion comment!
-  * You can also confirm this on the Grades page
+  * You can also confirm this on the Grades page.
 * You can resume an unsubmitted quiz attempt as as long as time isn't up. Carmen will ask you to confirm if you try to submit with unanswered questions.
-* Unless you know what you're doing, don't completely turn off emails from Carmen. You might miss something important - and that would be on you ☠️
+* Unless you know what you're doing, don't completely turn off emails from Carmen. You might miss something important - and that would be on you ☠️.
 
 ---
 
@@ -141,9 +151,9 @@ iOS (specifically share sheet)
 **Tools**: GoodNotes (--> Box)
 
 * This is my current go-to because:
-  * It let me keep my notes in "notebooks"
-  * I can use/import templates, including Cornell Notes (stay tuned for workshop info)
-  * I can search my handwriting
+  * It let me keep my notes in "notebooks."
+  * I can use/import templates, including Cornell Notes (stay tuned for workshop info).
+  * I can search my handwriting.
 
 Bonus: If you would like to keep everything in GoodNotes, you can also import your PDF into a GoodNotes notebook.
 
@@ -153,18 +163,18 @@ Bonus: If you would like to keep everything in GoodNotes, you can also import yo
 
 **Tools**: OneNote --> Office 365/BuckeyeMail
 
-* This is a great, free, organized solution
-* I don't personally use it for handwritten notes because writing with the Apple Pencil feels off
+* This is a great, free, organized solution.
+* I don't personally use it for handwritten notes because writing with the Apple Pencil feels off.
 * You can insert media, files, links, etc:
-  * ... in the app (the camera tool is also a document scanner)
-  * ... using the share sheet
+  * ... in the app (the camera tool is also a document scanner).
+  * ... using the share sheet.
 
 ---
 
 ## Take electronic notes (cont.)
 
-* OneNote is a great tool for, for example, online research 
-  * If you are doing a tradition paper research, you might look into something like Papership, Mendeley, EndNote, etc.
+* OneNote is a great tool for, for example, online research .
+  * If you are doing a tradition paper research, you might look into something like Papership, Mendeley, EndNote, etc..
 
 ---
 
@@ -186,9 +196,9 @@ Bonus: If you would like to keep everything in GoodNotes, you can also import yo
 
 **Tool**: Ohio State app
 
-* **Campus** tab: points of interest, services of interest, parking garage availability, etc.
+* **Campus** tab: points of interest, services of interest, parking garage availability, etc..
 * **Log In/My OSU** tab: class schedule, manage BuckID, see grades, configure wifi/BuckeyeMail/notifications, etc..
-* **Buses** tab: routes and real-time bus location updates
+* **Buses** tab: routes and real-time bus location updates.
 
 ---
 
@@ -204,9 +214,9 @@ Bonus: If you would like to keep everything in GoodNotes, you can also import yo
 
 Go visit **Wilce Student Health Center's** table at the **Health Fair** to sign up for BuckMD, which is a portal for:
 
-* Scheduling and managing appointments
-* View and print your personal health information
-* Send/receive secure messages to/from Student Health Services
+* Scheduling and managing appointments.
+* View and print your personal health information.
+* Send/receive secure messages to/from Student Health Services.
 * ... and more!
 
 ---
